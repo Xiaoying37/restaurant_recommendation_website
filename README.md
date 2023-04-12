@@ -8,7 +8,7 @@ This directory provides all the source codes for website.
 
 To extract the correct data from our database, please follow this instruction:
 Step 1: Open EuroRestaurantDB.sql. 
-Step 2: Navigate to the query of LOAD DATA INFILE '/Users/stephanielin/Desktop/CS3265/project2/tripadvisor_european_restaurants.csv' INTO TABLE euro_restuarant.mega_table, change the path to the path of the csv file on your device (the csv file is included in this "pei-lin-Project" -> 'application' folder).
+Step 2: Navigate to the query of LOAD DATA INFILE '/Users/stephanielin/Desktop/CS3265/project2/tripadvisor_european_restaurants.csv' INTO TABLE euro_restuarant.mega_table, change the path to the path of the csv file on your device.
 Step 3: Run every line of codes in EuroRestaurantDB.sql to make sure all features are created properly. 
 
 Environment set-up instruction: 
